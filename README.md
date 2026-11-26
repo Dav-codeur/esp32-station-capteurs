@@ -16,7 +16,7 @@ horodatage).
 
 | Capteur | Broche du module | Broche de la carte |
 |---|---|---|
-| Humidite du sol | AO | GPIO4 (ADC1) |
+| Humidite du sol HW-390 | AO | GPIO4 (ADC1) |
 | PIR HC-SR501 | OUT | GPIO5 |
 | Suiveur de ligne | OUT | GPIO6 |
 | DHT11 | DATA | GPIO7 |
